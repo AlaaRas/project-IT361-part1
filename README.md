@@ -1,9 +1,12 @@
 # IT361 - System Administration and Maintenance
-## Course Project - Part 1 (Individual)
+## Course Project - Part 1 
 
 **Student name:** Alaa Raslan | الاء رسلان
+
 **Student ID:** 443215503
+
 **Section No.:** 5551
+
 **Tested on:** Ubuntu 
 
 ---
