@@ -69,7 +69,6 @@ backup_2026-10-31_02-00-00.tar.gz.enc, so old backups are not replaced.
 readable copy of the backup on the disk. The encrypted file gets chmod 600.
 If something fails, it shows an error and removes the broken files.
 
-```
 
 **Run it:**
 ```
